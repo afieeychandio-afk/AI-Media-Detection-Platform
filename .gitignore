@@ -1,0 +1,9 @@
+﻿node_modules/
+__pycache__/
+*.pyc
+backend/uploads/
+backend/reports/
+backend/app_data.db
+.env
+dist/
+build/
