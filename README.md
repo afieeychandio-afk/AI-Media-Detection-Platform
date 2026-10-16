@@ -1,3 +1,6 @@
+Looking for an AI Image/Video/Audio Analysis Web App?  
+Order on Fiverr: [AI Media Analysis Web App](https://www.fiverr.com/aftab_hussain_c)
+
 # AI Media Detection Platform
 
 A web platform that analyzes images, videos, and audio to determine whether they are AI-generated or authentic, combining statistical AI models, digital forensics, and cryptographic content-provenance verification.
